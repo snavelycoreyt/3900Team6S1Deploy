@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../assign1-client-mgmt-system-snavelycoreyt/.idea/CMS_Clients.iml" filepath="$PROJECT_DIR$/../assign1-client-mgmt-system-snavelycoreyt/.idea/CMS_Clients.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/CalorieTracker.iml" filepath="$PROJECT_DIR$/.idea/CalorieTracker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../assign-2-mav-food-services-snavelycoreyt/.idea/mfscrm.iml" filepath="$PROJECT_DIR$/../assign-2-mav-food-services-snavelycoreyt/.idea/mfscrm.iml" />
+    </modules>
+  </component>
+</project>
